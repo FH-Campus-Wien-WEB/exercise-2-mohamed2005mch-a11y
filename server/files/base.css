@@ -1,5 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Sekuya&display=swap");
+
 body {
-  font-family: "Trebuchet MS", sans-serif;
+    font-family: "Sekuya", sans-serif;
+    margin: 10px;
+    padding: 20px;
+    background-color: #20201e;
+}
+
+.header {
+    background-color: #595858;
+    color: black;
+    padding: 20px;
+    text-align: center;
 }
 
 button {
